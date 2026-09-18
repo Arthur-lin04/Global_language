@@ -1,4 +1,3 @@
-=======
 # NLP 自然語言處理 (115 S1) - 課程專案
 
 本專案為 NLP 課程開發環境與實作練習區。
@@ -30,4 +29,3 @@ GPU 測試成功
 - [ ] 成功於虛擬環境內安裝通用套件清單 (`requirements.txt`) 與專屬硬體版本的 PyTorch。
 - [ ] 更新本 README 文件，填寫學號、姓名與 PyTorch 環境狀態。
 - [ ] 成功使用 Git 完成 `commit` 並 `push` 同步至 GitHub 雲端。
->>>>>>> master
