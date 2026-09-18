@@ -24,8 +24,8 @@ GPU 測試成功
 
 ### Week 2：開發環境與專案架構初始化
 請在完成下列任務後，將 `[ ]` 改為 `[x]`：
-- [ ] 成功建立 GitHub 帳號並 Clone 本專案至本機端。
-- [ ] 成功建立 `.venv` 虛擬環境，並透過 `.gitignore` 隱藏底層檔案。
-- [ ] 成功於虛擬環境內安裝通用套件清單 (`requirements.txt`) 與專屬硬體版本的 PyTorch。
-- [ ] 更新本 README 文件，填寫學號、姓名與 PyTorch 環境狀態。
-- [ ] 成功使用 Git 完成 `commit` 並 `push` 同步至 GitHub 雲端。
+- [x] 成功建立 GitHub 帳號並 Clone 本專案至本機端。
+- [x] 成功建立 `.venv` 虛擬環境，並透過 `.gitignore` 隱藏底層檔案。
+- [x] 成功於虛擬環境內安裝通用套件清單 (`requirements.txt`) 與專屬硬體版本的 PyTorch。
+- [x] 更新本 README 文件，填寫學號、姓名與 PyTorch 環境狀態。
+- [x] 成功使用 Git 完成 `commit` 並 `push` 同步至 GitHub 雲端。
