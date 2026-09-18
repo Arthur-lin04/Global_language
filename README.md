@@ -5,8 +5,8 @@
 ---
 
 ## 開發者資訊 (Developer Info)
-* **學號**：[請在此填寫真實學號]
-* **姓名**：[請在此填寫真實姓名]
+* **學號**：[U12627013]
+* **姓名**：[林正皓]
 
 ## 硬體與環境狀態 (Environment Setup)
 * **PyTorch 執行環境**：[請填寫您安裝的狀態：Windows CUDA 12.1 / Mac Default / Windows CPU]
