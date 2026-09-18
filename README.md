@@ -9,7 +9,14 @@
 * **姓名**：[林正皓]
 
 ## 硬體與環境狀態 (Environment Setup)
-* **PyTorch 執行環境**：[請填寫您安裝的狀態：Windows CUDA 12.1 / Mac Default / Windows CPU]
+**PyTorch 執行環境**：<br>
+PyTorch 版本：2.5.1+cu121<br>
+CUDA 是否可用：True<br>
+GPU 數量：1<br>
+目前 GPU：NVIDIA GeForce RTX 4060 Laptop GPU<br>
+CUDA 版本：12.1<br>
+張量所在裝置：cuda:0<br>
+GPU 測試成功
 
 ---
 
