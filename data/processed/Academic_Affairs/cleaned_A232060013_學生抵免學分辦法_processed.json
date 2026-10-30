@@ -1,12 +1,12 @@
 [
     {
-        "text": "## 明志科技大學 / Ming Chi University of Technology## Regulations for Credit Transfer and Course Waiver of Students\n\n制定部門：教務處\n\n中華民國115年4月14日修訂\n\nEstablished by: Office of Academic Affairs\n\nAmended on April 14, 2026\n\n規章編號\n\nDocument No.\n\nA232060013\n\n修訂記錄：",
+        "text": "## 明志科技大學 / Ming Chi University of Technology / Regulations for Credit Transfer and Course Waiver of Students\n\n制定部門：教務處\n\n中華民國115年4月14日修訂\n\nEstablished by: Office of Academic Affairs\n\nAmended on April 14, 2026\n\n規章編號\n\nDocument No.\n\nA232060013\n\n修訂記錄：",
         "metadata": {
             "source_file": "A232060013_學生抵免學分辦法.pdf",
             "cluster": "Academic_Affairs",
             "char_length": 246,
             "headings": [
-                "## 明志科技大學 / Ming Chi University of Technology## Regulations for Credit Transfer and Course Waiver of Students"
+                "## 明志科技大學 / Ming Chi University of Technology / Regulations for Credit Transfer and Course Waiver of Students"
             ],
             "chunk_type": "regex_parsed"
         }
@@ -132,13 +132,25 @@
         }
     },
     {
-        "text": "## Article 4 Principles of Course Waiver and Credit Transfer / Principles of course waiver\n\nThe courses allowed for waiver shall include both required and elective courses.",
+        "text": "## Article 4 Principles of Course Waiver and Credit Transfer",
         "metadata": {
             "source_file": "A232060013_學生抵免學分辦法.pdf",
             "cluster": "Academic_Affairs",
-            "char_length": 172,
+            "char_length": 60,
             "headings": [
-                "## Article 4 Principles of Course Waiver and Credit Transfer / Principles of course waiver"
+                "## Article 4 Principles of Course Waiver and Credit Transfer"
+            ],
+            "chunk_type": "regex_parsed"
+        }
+    },
+    {
+        "text": "## Principles of course waiver\n\nThe courses allowed for waiver shall include both required and elective courses.",
+        "metadata": {
+            "source_file": "A232060013_學生抵免學分辦法.pdf",
+            "cluster": "Academic_Affairs",
+            "char_length": 112,
+            "headings": [
+                "## Principles of course waiver"
             ],
             "chunk_type": "regex_parsed"
         }
@@ -156,11 +168,11 @@
         }
     },
     {
-        "text": "## 第五條 抵免申請\n\n符合第二條適用對象規定應於每學期加退選結束前，填具「學分 抵免申請書」（表號：A232060213），檢附歷年成績證明與課程\n\n綱要證明直接向所屬各系提出學分抵免之申請，以一次為限。\n\n大學部四年制學生畢業門檻之抵免，依本校「學生畢業門檻實施 辦法」辦理。\n\n- Article 5 Application for Credit Transfer and Course Waiver\n\nStudents eligible for credit transfer and course waiver under Article 2 shall fill in the Application for Credit Transfer and Course Waiver (Form: A232060213) and submit the form together with the academic transcript over the years and course syllabus certificate to apply for credit transfer and course waiver to their departments before the closing date of course addition and dropping each semester. Only one application for credit transfer and course waiver shall be allowed.\n\nThe transfer of graduation credit threshold of 4-year undergraduate programs shall be subject to MCUT's Regulations for Implementation of Graduation Threshold.",
+        "text": "## 第五條 抵免申請\n\n符合第二條適用對象規定應於每學期加退選結束前，填具「學分 抵免申請書」（表號：A232060213），檢附歷年成績證明與課程\n\n綱要證明直接向所屬各系提出學分抵免之申請，以一次為限。\n\n大學部四年制學生畢業門檻之抵免，依本校「學生畢業門檻實施 辦法」辦理。 / Article 5 Application for Credit Transfer and Course Waiver\n\nStudents eligible for credit transfer and course waiver under Article 2 shall fill in the Application for Credit Transfer and Course Waiver (Form: A232060213) and submit the form together with the academic transcript over the years and course syllabus certificate to apply for credit transfer and course waiver to their departments before the closing date of course addition and dropping each semester. Only one application for credit transfer and course waiver shall be allowed.\n\nThe transfer of graduation credit threshold of 4-year undergraduate programs shall be subject to MCUT's Regulations for Implementation of Graduation Threshold.",
         "metadata": {
             "source_file": "A232060013_學生抵免學分辦法.pdf",
             "cluster": "Academic_Affairs",
-            "char_length": 846,
+            "char_length": 845,
             "headings": [
                 "## 第五條 抵免申請"
             ],

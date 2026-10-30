@@ -1,12 +1,24 @@
 [
     {
-        "text": "## 明志科技大學 / Ming Chi University of TechnologyStudents\n\n規章編號\n\nDocument No.\n\nA242060013",
+        "text": "## 明志科技大學 / Ming Chi University of Technology",
         "metadata": {
             "source_file": "A242060013_學生請假作業辦法.pdf",
             "cluster": "Student_Affairs",
-            "char_length": 85,
+            "char_length": 45,
             "headings": [
-                "## 明志科技大學 / Ming Chi University of TechnologyStudents"
+                "## 明志科技大學 / Ming Chi University of Technology"
+            ],
+            "chunk_type": "regex_parsed"
+        }
+    },
+    {
+        "text": "## 學生請假作業辦法 Students\n\n規章編號\n\nDocument No.\n\nA242060013",
+        "metadata": {
+            "source_file": "A242060013_學生請假作業辦法.pdf",
+            "cluster": "Student_Affairs",
+            "char_length": 52,
+            "headings": [
+                "## 學生請假作業辦法 Students"
             ],
             "chunk_type": "regex_parsed"
         }
@@ -24,13 +36,25 @@
         }
     },
     {
-        "text": "## Table of Contents\n\n|           |                                                 |   頁次 |\n|-----------|-------------------------------------------------|--------|\n| 第一條    | 目的                                            |      1 |\n| Article 1 | Objective/Purpose                               |        |\n| 第二條    | 適用對象                                        |      1 |\n| Article 2 | Applicability                                   |        |\n| 第三條    | 請假方式                                        |      1 |\n| Article 3 | Method of Application                           |        |\n| 第四條    | 假別                                            |      2 |\n| Article 4 | Types of Leave                                  |        |\n| 第五條    | 請假規定                                        |      6 |\n| Article 5 | Regulations for Leave Application               |        |\n| 第六條    | 請假核決權責                                    |      7 |\n| Article 6 | Responsibility and Authority for Leave Approval |        |\n| 第七條    | 實施與修訂                                      |      8 |\n| Article 7 | Implementation and Amendment                    |        |## Guidelines of Leave Application for Students\n\n95年11月30日學務會議修訂通過 114年08月19日學生事務會議修訂通過\n\nAmended passed by the Student Affairs Meeting on November 30, 2006.\n\nAmendment passed by the Student Affairs Meeting on August 19, 2025.\n\n- 第一條 目的 為使本校學生因故不能到課、不能參加集會或必須外 出，而需要辦理請假時，有所依循，特訂定「學生請假 作業辦法」(以下簡稱本辦法)。 / Article 1 Objective/Purpose\n\nThe \"Guidelines of Leave Application for Students\" (hereinafter called these \"Guidelines\") is established to provide a reference for leave application when students cannot come to class, join the assembly, or need to go out of the school for some reason.\n\n- 第二條 適用對象 本校各學制學生（含延修生）。 / Article 2 Applicability\n\nThese Guidelines shall apply to all MCUT students (including students with delayed graduation).\n\n<!-- formula-not-decoded -->\n\n- Article 3 Method of Application\n\nLeave shall be applied for over the online leave application system.",
+        "text": "## Table of Contents\n\n|           |                                                 |   頁次 |\n|-----------|-------------------------------------------------|--------|\n| 第一條    | 目的                                            |      1 |\n| Article 1 | Objective/Purpose                               |        |\n| 第二條    | 適用對象                                        |      1 |\n| Article 2 | Applicability                                   |        |\n| 第三條    | 請假方式                                        |      1 |\n| Article 3 | Method of Application                           |        |\n| 第四條    | 假別                                            |      2 |\n| Article 4 | Types of Leave                                  |        |\n| 第五條    | 請假規定                                        |      6 |\n| Article 5 | Regulations for Leave Application               |        |\n| 第六條    | 請假核決權責                                    |      7 |\n| Article 6 | Responsibility and Authority for Leave Approval |        |\n| 第七條    | 實施與修訂                                      |      8 |\n| Article 7 | Implementation and Amendment                    |        |",
         "metadata": {
             "source_file": "A242060013_學生請假作業辦法.pdf",
             "cluster": "Student_Affairs",
-            "char_length": 2010,
+            "char_length": 1139,
             "headings": [
                 "## Table of Contents"
+            ],
+            "chunk_type": "regex_parsed"
+        }
+    },
+    {
+        "text": "## Guidelines of Leave Application for Students\n\n95年11月30日學務會議修訂通過 114年08月19日學生事務會議修訂通過\n\nAmended passed by the Student Affairs Meeting on November 30, 2006.\n\nAmendment passed by the Student Affairs Meeting on August 19, 2025.\n\n- 第一條 目的 為使本校學生因故不能到課、不能參加集會或必須外 出，而需要辦理請假時，有所依循，特訂定「學生請假 作業辦法」(以下簡稱本辦法)。 / Article 1 Objective/Purpose\n\nThe \"Guidelines of Leave Application for Students\" (hereinafter called these \"Guidelines\") is established to provide a reference for leave application when students cannot come to class, join the assembly, or need to go out of the school for some reason.\n\n- 第二條 適用對象 本校各學制學生（含延修生）。 / Article 2 Applicability\n\nThese Guidelines shall apply to all MCUT students (including students with delayed graduation).\n\n<!-- formula-not-decoded -->\n\n- Article 3 Method of Application\n\nLeave shall be applied for over the online leave application system.",
+        "metadata": {
+            "source_file": "A242060013_學生請假作業辦法.pdf",
+            "cluster": "Student_Affairs",
+            "char_length": 871,
+            "headings": [
+                "## Guidelines of Leave Application for Students"
             ],
             "chunk_type": "regex_parsed"
         }
