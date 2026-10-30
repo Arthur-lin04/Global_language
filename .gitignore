@@ -30,10 +30,14 @@ Thumbs.db
 !.vscode/extensions.json
 
 # 資料夾控管：忽略所有資料文件，僅保留資料夾結構 (Ignore data files, preserve directory structure)
-data/raw/*
+data/raw/**
+!data/raw/**/
 !data/raw/.keep
-data/processed/*
+!data/raw/**/.keep
+data/processed/**
+!data/processed/**/
 !data/processed/.keep
+!data/processed/**/.keep
 
 # 大型二進位檔、壓縮檔與模型權重 (Large binary files, archives & model weights)
 *.bin
