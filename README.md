@@ -38,4 +38,4 @@ GPU 測試成功
   - [x] 1-C：重新執行目前程式，斷言通過。
 - [x] **結構健全度 (Mechanical Sanity)**：批次管線已執行；Cleaned/Raw 拓撲錨定率皆為 100%，文本長度中位數為 269/205。
 - [x] **語意品質 (Semantic Quality)**：Shannon Information Entropy 中位數已計算；Cleaned 5.03，Raw 4.72。
-- [x]**觀測儀表板與報告**：Notebook 已保留 4 拼圖輸出，根目錄 `metrics.json` 已產生。
+- [x] **觀測儀表板與報告**：Notebook 已保留 4 拼圖輸出，根目錄 `metrics.json` 已產生。
