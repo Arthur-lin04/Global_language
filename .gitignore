@@ -30,6 +30,7 @@ Thumbs.db
 !.vscode/extensions.json
 
 # 資料夾控管：忽略所有資料文件，僅保留資料夾結構 (Ignore data files, preserve directory structure)
+data/interim/*
 data/raw/*
 !data/raw/.keep
 data/processed/*
