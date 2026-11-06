@@ -156,8 +156,9 @@ Week 09
 # 繳交前檢查清單 (Final Checklist)
 
 **11/6 11:50 前 Push** (以 11:50 的版本評分)
-- [ ] `DATA_REPORT.md` 第 1–5 節完成，第 3.4 節含**驗證碼**
-- [ ] 截圖在 `reports/figures/`，GitHub 上可正常顯示
-- [ ] `AI_USAGE.md` 已新增 Week 09 段落
-- [ ] `notebooks/09_midterm_chunks.ipynb` 已存檔，**保留輸出結果**
-- [ ] 以上四項皆已 Commit & Push
+- [x] `DATA_REPORT.md` 第 1–5 節完成，第 3.4 節含**驗證碼**
+- [x] 截圖在 `reports/figures/`，GitHub 上可正常顯示
+- [x] `AI_USAGE.md` 已新增 Week 09 段落
+- [x] `notebooks/09_midterm_chunks.ipynb` 已存檔，**保留輸出結果**
+- [x] 以上四項皆已 Commit & Push
+
