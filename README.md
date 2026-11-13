@@ -39,3 +39,17 @@ GPU 測試成功
 - [x] **結構健全度 (Mechanical Sanity)**：批次管線已執行；Cleaned/Raw 拓撲錨定率皆為 100%，文本長度中位數為 269/205。
 - [x] **語意品質 (Semantic Quality)**：Shannon Information Entropy 中位數已計算；Cleaned 5.03，Raw 4.72。
 - [x] **觀測儀表板與報告**：Notebook 已保留 4 拼圖輸出，根目錄 `metrics.json` 已產生。
+
+### Week 10：關鍵字檢索與語意檢索
+- 使用 jieba 斷詞、TF-IDF、BM25 與句向量，實作校規 chunks 檢索。
+- 以 cosine 相似度比較句向量，並人工評估 10 個校規問題的前三名結果。
+- 新增檔案：`notebooks/10_vector_similarity.ipynb`、`week10_retrieval_comparison.json`。
+
+#### 下課前檢查清單
+- [x] 所有 7 個 `TODO` 檢查都通過，notebook 保留輸出並存檔
+- [ ] 反思 3 題已作答
+- [ ] `week10_retrieval_comparison.json` 已產生
+- [x] `requirements.txt` 和 `.gitignore` 已更新（由 `10_0_setup.ipynb` 自動完成）
+- [ ] `AI_USAGE.md` 已新增 Week 10 段落：今天哪些地方問了 AI、AI 的回答哪裡正確或錯誤、你如何查證
+- [ ] `README.md` 已更新：新增 Week 10 的說明（本週完成的內容、新增的檔案）
+- [x] commit & push，並打開 GitHub 網頁確認檔案已經上傳
