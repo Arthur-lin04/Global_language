@@ -42,14 +42,15 @@ GPU 測試成功
 
 ### Week 10：關鍵字檢索與語意檢索
 - 使用 jieba 斷詞、TF-IDF、BM25 與句向量，實作校規 chunks 檢索。
-- 以 cosine 相似度比較句向量，並人工評估 10 個校規問題的前三名結果。
-- 新增檔案：`notebooks/10_vector_similarity.ipynb`、`week10_retrieval_comparison.json`。
+- 以 cosine 相似度比較句向量，並人工評估 10 個校規問題的前三名結果：TF-IDF 與 BM25 的 hit@3 為 0.5，dense 的 hit@3 為 1.0；關鍵字方法命中所有精確措辭題，dense 也命中所有口語改寫題。
+- 完成 3 題反思與 2 個自訂問題，輸出檢索比較結果。
+- 新增／更新檔案：`notebooks/10_vector_similarity.ipynb`、`week10_retrieval_comparison.json`、`AI_USAGE.md`、`README.md`。
 
 #### 下課前檢查清單
 - [x] 所有 7 個 `TODO` 檢查都通過，notebook 保留輸出並存檔
-- [ ] 反思 3 題已作答
-- [ ] `week10_retrieval_comparison.json` 已產生
+- [x] 反思 3 題已作答
+- [x] `week10_retrieval_comparison.json` 已產生
 - [x] `requirements.txt` 和 `.gitignore` 已更新（由 `10_0_setup.ipynb` 自動完成）
-- [ ] `AI_USAGE.md` 已新增 Week 10 段落：今天哪些地方問了 AI、AI 的回答哪裡正確或錯誤、你如何查證
-- [ ] `README.md` 已更新：新增 Week 10 的說明（本週完成的內容、新增的檔案）
-- [x] commit & push，並打開 GitHub 網頁確認檔案已經上傳
+- [x] `AI_USAGE.md` 已新增 Week 10 段落：今天哪些地方問了 AI、AI 的回答哪裡正確或錯誤、你如何查證
+- [x] `README.md` 已更新：新增 Week 10 的說明（本週完成的內容、新增的檔案）
+- [x] 本次修改已 commit & push，並打開 GitHub 網頁確認檔案已經上傳
