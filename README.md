@@ -54,3 +54,36 @@ GPU 測試成功
 - [x] `AI_USAGE.md` 已新增 Week 10 段落：今天哪些地方問了 AI、AI 的回答哪裡正確或錯誤、你如何查證
 - [x] `README.md` 已更新：新增 Week 10 的說明（本週完成的內容、新增的檔案）
 - [x] 本次修改已 commit & push，並打開 GitHub 網頁確認檔案已經上傳
+
+### Week 12: Chunking Strategies & Vector Index
+- [x] **依結構切塊**：執行 `src/rechunk_v2.py`，產生 `data/processed_v2/`（策略 C、D）
+- [x] **固定長度 + 重疊**：完成 `fixed_chunks`（策略 B）
+- [x] **向量索引**：儲存 `data/embeddings/week12_v2_emb.npy`（策略 D，第 14 週使用）
+- [x] **自動評估**：完成 `hit_at_k`、`topk_chars`，比較 4 種策略
+
+  | 策略 | hit@3 | hit@5 |
+  |---|---:|---:|
+  | A 第8週 | 0.75 | 0.79 |
+  | B 固定長度+重疊 (500/100) | 0.67 | 0.79 |
+  | C 依條文(無標題) | 0.67 | 0.83 |
+  | D 依條文+標題 | 0.71 | 0.88 |
+
+- [x] **自己出題**：2 題，看 A、B、D 的排名
+- [x] **選做比較**：將 B 的 `size/overlap` 從 `500/100` 改為 `300/50`
+
+  | B 設定 | chunks | hit@3 | hit@5 | 前 5 名總字數最大值 |
+  |---|---:|---:|---:|---:|
+  | 500/100 | 808 | 0.67 | 0.79 | 2,500 |
+  | 300/50 | 1,292 | 0.67 | 0.75 | 1,500 |
+
+  hit@3 相同，較小 chunks 的 hit@5 低 0.04，但前 5 名最大字數少 1,000 字。
+
+#### 下課前檢查清單
+- [x] 所有 notebook 檢查通過，並保留執行輸出
+- [x] 反思 3 題已作答
+- [x] `week12_retrieval_eval.json` 已產生
+- [x] `src/rechunk_v2.py` 在專案裡
+- [x] `.gitignore` 已更新
+- [x] README 與 AI_USAGE 已更新
+- [x] (選做) 修改 B 設定並比較完成
+- [x] commit & push，並打開 GitHub 確認

@@ -57,3 +57,7 @@ data/embeddings/
 week10_slide_deck/
 
 #
+
+# Week 12：切塊輸出與向量索引不上傳
+data/processed_v2/
+data/processed_v2_800/
